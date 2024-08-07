@@ -1,0 +1,5 @@
+_Prestandard for Assessing the Embodied Carbon of Structural Systems for Buildings_ developed by the Structural Engineering Institute (SEI) of the American Society of Civil Engineers (ASCE) presents a recommended calculation methodology for assessing the embodied carbon emissions of structural systems. The intended audience is structural engineers and life cycle assessment practitioners. In its imperative text, the prestandard defines (1) how materials should be quantified, (2) how embodied carbon should be calculated and reported, and (3) rules of comparison for structural systems based on embodied carbon. Three embodied carbon assessment tiers are defined to support the various goals that a user may have.
+
+SEI will be publishing the first edition of this prestandard in response to the need to align embodied carbon calculation methodologies and to support the Structural Engineering 2050 Commitment Program.
+
+The Prestandard will be published in 2025.
