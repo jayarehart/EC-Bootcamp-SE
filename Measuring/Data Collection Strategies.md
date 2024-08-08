@@ -2,7 +2,7 @@ One of the biggest challenges to assessing the embodied carbon of structural sys
 
 To address the inherent uncertainty that comes with performing LCAs, there are four data collection strategies.
 
-1. **Measuring**: Quantities can be directly measured from bills of materials, or physical quantities (e.g., contractor submittals or procurement records)
+1. **Measuring**: Quantities can be directly measured from bills of materials, or physical quantities (e.g., contractor submittals or procurement records).
 
 2. **Modeling**: Quantities can be modeled (e.g., analytical structural model, structural Revit model, typical bay calculations).
 

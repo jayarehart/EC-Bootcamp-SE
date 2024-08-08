@@ -4,7 +4,7 @@ The clearly defined framework for performing LCAs is governed by the standards [
 
 When measuring the embodied carbon of a structural system, we are typically performing an "abridged" version of an LCA. But, it is still important to understand the fundamental process of conducting an LCA.
 
-This figure, adapted from the ISO 14040 standard summarizes each of the phases of performing an LCA. An LCA begins with the definition of a goal and scope, and an interpretation of if the scope matches the goal. If the scope supports the goal, then the inventory analysis is performed and interpreted to ensure that sufficient data is available to support the previously identified goal. From here, an impact assessment is performed with the results interpreted to draw conclusions and make recommendations.
+This figure, adapted from the ISO 14040 standard, summarizes each of the phases of performing an LCA. An LCA begins with the definition of a goal and scope, and an interpretation of if the scope matches the goal. If the scope supports the goal, then the inventory analysis is performed and interpreted to ensure that sufficient data is available to support the previously identified goal. From here, an impact assessment is performed, with the results interpreted to draw conclusions and make recommendations.
 
 ![[ISO_LCA_Framwork.png]]
 # Defining a Goal

@@ -39,8 +39,8 @@ For each of the design stages, the following actions are recommended to be taken
 # Presenting Results
 Without effectively sharing the results of embodied carbon assessments, there is little value in performing the assessment in the first place. Some things to consider when presenting results:
 - **Simplification**: how can key results be communicated effectively?
-- **Storytelling**: what are the other impacts of design decisions made to reduce embodied carbon.
-- **Levers**: Emphasizing the levers available to reduce structural embodied carbon, and their relative magnitudes, is key to enabling conversation.
+- **Storytelling**: identify how design decisions made by others will impact other systems.
+- **Levers**: emphasizing the levers available to reduce structural embodied carbon, and their relative magnitudes, is key to enabling conversation.
 
 # Navigation
 Return: [[Home]]

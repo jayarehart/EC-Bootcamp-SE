@@ -5,8 +5,8 @@ $Embodied \: Carbon = physical \: quantity ∗ carbon \: factor$
 
 Physical quantities of mass or volume are typically used, in both metric or imperial units:
 
-$EC_{A1-A3} [kgCO_2 e]=mass [kg]∗CF_{A1-A3}  [(kgCO_2 e)/kg]$
-$EC_{A1-A3} [kgCO_2 e]=volume [yd^3]∗CF_{A1-A3}  [(kgCO_2 e)/yd^3]$
+$EC_{A1-A3} [kgCO_2 e]=mass [kg] * CF_{A1-A3} \: [(kgCO_2 e)/kg]$
+$EC_{A1-A3} [kgCO_2 e]=volume [yd^3] * CF_{A1-A3} \: [(kgCO_2 e)/yd^3]$
 
 Carbon factors are developed by performing detailed life cycle assessments (LCAs) (see [[How to Perform an LCA]] for further details). These product-level LCAs are typically reported in [[Environmental Product Declarations]] (EPDs).
 

@@ -1,8 +1,8 @@
-For buildings and infrastructure, (i.e., construction works), the following framework is used to categorize the various stages of the asset's lifecycle. These are defined in the standard [BS EN 15978:2011](https://www.en-standard.eu/bs-en-15978-2011-sustainability-of-construction-works-assessment-of-environmental-performance-of-buildings-calculation-method/).
+For buildings and infrastructure (i.e., construction works) the following framework is used to categorize the various stages of the asset's lifecycle. These are defined in the standard [BS EN 15978:2011](https://www.en-standard.eu/bs-en-15978-2011-sustainability-of-construction-works-assessment-of-environmental-performance-of-buildings-calculation-method/).
 
 There are three primary stages that are then composed of modules.
 
-**Stage A**: The 'Product' stage, which includes the raw material supply (Module A1), transport (Module A2), manufacturing (Module A3), transport to the construction site (Module A4), and construction & installation (Module A5). In addition to pre-construction activities (Module A0).
+**Stage A**: The 'Product' stage, which includes: the raw material supply (Module A1), transport (Module A2), manufacturing (Module A3), transport to the construction site (Module A4), and construction & installation (Module A5). In addition to pre-construction activities (Module A0).
 
 **Stage B**: The 'In-Use' stage, which include the use (Module B1), maintenance (Module B2), repair (Module B3), replacement (Module B4), refurbishment (Module B5), operational energy use (Module B6),  operational water use (Module B7), and other user activities.
 
