@@ -1,4 +1,4 @@
-Additional resources presented by Michael Lyons and Jesssica Martinez at the 2024 NCSEA Structural Engineering Summit
+Additional resources presented by Michael Lyons and Jessica Martinez at the 2024 NCSEA Structural Engineering Summit
 
 Concrete Reference: NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf
 
