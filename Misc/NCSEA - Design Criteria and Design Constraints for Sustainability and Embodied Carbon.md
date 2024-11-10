@@ -4,6 +4,8 @@ PDF of Presentation Slides: [Design Criteria and Design Constraints for Sustaina
 
 NCSEA Sustainable Design Committee Concrete Reference:  [Performance-Based Concrete Specification Guidance: Concrete Class Table](https://www.ncsea.com/app/uploads/2024/09/NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf)
 
+This document is located on the NCSEA website at the following location: NCSEA.com -> Education & Events -> Publications -> FAQs & Whitepapers -> Codes, Standards, and the Practicing Engineer
+
 Steel Resources:
 - [Summary of EPDs and Graphs](https://1drv.ms/x/s!AqOsco29_y-ygf5ZIXZD8EqrmeOlfw?e=JPjryM)
 - Plate Mills [Map](https://maps.app.goo.gl/T6nYVZjvLfEGDGKG8)
