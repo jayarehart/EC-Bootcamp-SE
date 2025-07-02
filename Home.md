@@ -1,7 +1,7 @@
  Written by Jay Arehart, PhD 
-	 v1.0.  |  Aug 10, 2024
+	 v1.1.  |  Jul 2, 2025
 
-Welcome to a resource page dedicated to introducing structural engineers to embodied carbon.
+Welcome to a digital garden dedicated to helping structural engineers measure ad reduce embodied carbon.
 
 This resource is put together to supplement the annual [Embodied Carbon Bootcamp for Structural Engineers](https://www.colorado.edu/ceae/embodied-carbon-bootcampsymposium-structural-engineers) event: [[About the Bootcamp]]
 
@@ -35,6 +35,7 @@ Within each page, additional links and connections are made in the form of a 'wi
 3. [[Design Strategies]]
 
 ## Other relevant pages and resources:
+- [[SE 2050 Resources Executive Summary]]
 - [[NCSEA - Design Criteria and Design Constraints for Sustainability and Embodied Carbon]]
 - [[Basic embodied carbon concepts and terminology]]
 - [[SE 2050 Commitment Program]]

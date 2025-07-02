@@ -8,6 +8,7 @@ Day Two of the bootcamp will bring attendees up to speed with the latest best p
 [More details](https://www.colorado.edu/ceae/embodied-carbon-bootcampsymposium-structural-engineers) about the bootcamp and corresponding symposium.
 [Sign up](https://forms.office.com/Pages/ResponsePage.aspx?id=G4vtPQ0HKUaC5MCwGfRgV4uXZGTQZmlFotfE0gKkP5hUMUc5NDIzSldHNVEwUVQxQkFOUEdLU0YzTy4u) for email notifications for future events.
 ## Upcoming Events
-- Bootcamp & Symposium in June 2025 at the University of Colorado Boulder
+- Bootcamp & Symposium in June 2026 at the University of Colorado Boulder
 ## Past Events
 - July 22-24, 2024 at the University of Colorado Boulder
+- June 26-27, 2025 at the University of Colorado Boulder as part of the [SEI Towards Zero Carbon 2025: Summit & Symposium](https://www.colorado.edu/ceae/embodied-carbon-bootcampsymposium-structural-engineers).
