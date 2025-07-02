@@ -1,6 +1,9 @@
+ Written by Michael Lyons 
+	 v1.0.  |  Nov 4, 2024
+
 Additional resources presented by Michael Lyons and Jessica Martinez at the 2024 NCSEA Structural Engineering Summit
 
-Concrete Reference: NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf
+Concrete Reference: [NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf](https://www.ncsea.com/app/uploads/2024/09/NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf)
 
 NCSEA Sustainable Design Committee:  [Performance-Based Concrete Specification Guidance: Concrete Class Table](https://www.ncsea.com/app/uploads/2024/09/NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf)
 

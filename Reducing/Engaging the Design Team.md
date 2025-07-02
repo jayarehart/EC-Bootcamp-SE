@@ -1,4 +1,3 @@
-
 As structural engineers, we should lead the discussion of embodied carbon related to the structural system.
 
 The structural engineer is the most well-equipped to make reductions, so if they are not involved in the embodied carbon conversation, these efficiencies may not be realized.
@@ -26,12 +25,10 @@ For each of the design stages, the following actions are recommended to be taken
 - Identify “hot spots” of the structural system (e.g. topping slab, mat foundations) as areas to refine.
 - Collaborate to reduce the volume of structural materials as much as possible.
 - Finalize reduction strategies for the structural system (e.g. cement reduction, sourcing goals for steel).
-
 ## Construction Documents
-- Confirm reduction strategies are achievable with contactor and suppliers.
+- Confirm reduction strategies are achievable with contractor and suppliers.
 - Identify GWP limits for materials
 - Include embodied carbon specific specifications to ensure material-specific reductions are achieved and are part of the bid requirements.
-
 ## Construction
 - Update final calculations based upon as-built submittals.
 - Confirm that reduction targets have been met.
@@ -41,6 +38,8 @@ Without effectively sharing the results of embodied carbon assessments, there is
 - **Simplification**: how can key results be communicated effectively?
 - **Storytelling**: identify how design decisions made by others will impact other systems.
 - **Levers**: emphasizing the levers available to reduce structural embodied carbon, and their relative magnitudes, is key to enabling conversation.
+
+An example of a clear presentation of results for a typical bay study from BuroHappold, published by IStructE in 2020: [Embodied carbon: structural sensitivity study](https://www.istructe.org/resources/case-study/embodied-carbon-structural-sensitivity-study/).
 
 # Navigation
 Return: [[Home]]

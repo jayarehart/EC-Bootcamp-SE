@@ -14,4 +14,4 @@ The preference for each strategy is to: (1) measure, (2) model, (3) research, an
 
 # Navigation
 Return: [[Home]]
-Suggested Next: [[Environmental Product Declarations]]
+Suggested Next: [[Environmental Product Declarations (A1-A3)]]

@@ -40,10 +40,16 @@ The SE 2050 group has compiled industry-average EPDs for structural materials. T
 
 The Carbon Leadership Forum has published a set of material baselines, which are composed of many industry-average EPDs. [2023 CLF North American Material Baselines Report](https://carbonleadershipforum.org/clf-material-baselines-2023/)
 
+Example industry-average EPD for [Ready Mixed Concrete (2022)](https://www.nrmca.org/wp-content/uploads/NRMCA_EPDV3.2_2023.pdf) accessed from NRMCA's EPD [library](https://www.nrmca.org/association-resources/sustainability/environmental-product-declarations/).
+
+Example industry-wide and facility-specific EPDs for structural steel from [AISC](https://www.aisc.org/sustainability/leed-v4/).
+
+Current [EPDs for Wood Products](https://www.woodworks.org/wp-content/uploads/expert-tips/expert-tips_current-epds-for-wood-products.pdf) compiled by WoodWorks (updated May 2025). 
+
 # EC3
 
 [Embodied Carbon in Construction Calculator](https://buildingtransparency.org/ec3) (EC3) Tool contains a large database of EPDs that can be used to compare different construction products. 
 
 # Navigation
 Return: [[Home]]
-Suggested Next: [[How to Calculate Embodied Carbon (IStructE)]]
+Suggested Next: [[Construction Emissions (A4 and A5)]]

@@ -23,9 +23,11 @@ Within each page, additional links and connections are made in the form of a 'wi
 4. [[Life cycle stages and modules]]
 5. [[Example Embodied Carbon Calculation]]
 6. [[Data Collection Strategies]]
-7. [[Environmental Product Declarations]]
-8. [[How to Calculate Embodied Carbon (IStructE)]]
-9. [[Prestandard for Assessing the Embodied Carbon of Structural Systems for Buildings]]
+7. [[Environmental Product Declarations (A1-A3)]]
+8. [[Construction Emissions (A4 and A5)]]
+9. [[Biogenic Carbon]]
+10. [[How to Calculate Embodied Carbon (IStructE)]]
+11. [[Prestandard for Assessing the Embodied Carbon of Structural Systems for Buildings]]
 
 ## Reducing Embodied Carbon
 1. [[Engaging the Design Team]]
@@ -33,6 +35,7 @@ Within each page, additional links and connections are made in the form of a 'wi
 3. [[Design Strategies]]
 
 ## Other relevant pages and resources:
+- [[NCSEA - Design Criteria and Design Constraints for Sustainability and Embodied Carbon]]
 - [[Basic embodied carbon concepts and terminology]]
 - [[SE 2050 Commitment Program]]
 - [IstructE Climate Emergency Resources](https://www.istructe.org/resources/climate-emergency/)
@@ -43,3 +46,5 @@ Within each page, additional links and connections are made in the form of a 'wi
 - [Embodied carbon: structural sensitivity study (2020)](https://www.istructe.org/resources/case-study/embodied-carbon-structural-sensitivity-study/)
 
 See something that you think should be added? Reach out to [Jay Arehart](mailto:jay.arehart@colorado.edu).
+
+Want to contribute? Raise an issue highlighting something that can be added or write a page and create a pull request on the Github repository for this [digital garden](https://github.com/jayarehart/EC-Bootcamp-SE). 

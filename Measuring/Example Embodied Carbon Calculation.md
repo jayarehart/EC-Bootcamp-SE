@@ -8,7 +8,7 @@ Physical quantities of mass or volume are typically used, in both metric or impe
 $EC_{A1-A3} [kgCO_2 e]=mass [kg] * CF_{A1-A3} \: [(kgCO_2 e)/kg]$
 $EC_{A1-A3} [kgCO_2 e]=volume [yd^3] * CF_{A1-A3} \: [(kgCO_2 e)/yd^3]$
 
-Carbon factors are developed by performing detailed life cycle assessments (LCAs) (see [[How to Perform an LCA]] for further details). These product-level LCAs are typically reported in [[Environmental Product Declarations]] (EPDs).
+Carbon factors are developed by performing detailed life cycle assessments (LCAs) (see [[How to Perform an LCA]] for further details). These product-level LCAs are typically reported in [[Environmental Product Declarations (A1-A3)]] (EPDs).
 
 # Example
 It's best to see this through an example. Consider the following quantity takeoff for a structural system for a 6-storey, 160,000sf composite steel frame with drilled pier foundations, and a reinforced concrete shear wall lateral system.
@@ -33,7 +33,7 @@ Let’s just consider the rebar for a sample calculation. From the QTO, the tota
 
 Now, the carbon factor for rebar for life cycle modules A1-A3 needs to be determined.
 
-We use data from [[Environmental Product Declarations]]. For a "[Steel Reinforcement Bar](https://www.crsi.org/wp-content/uploads/CRSI_Industry-Wide_EPD_Sep2022.pdf)" industry average value published by the Concrete Reinforcing Steel Institute, we get:
+We use data from [[Environmental Product Declarations (A1-A3)]]. For a "[Steel Reinforcement Bar](https://www.crsi.org/wp-content/uploads/CRSI_Industry-Wide_EPD_Sep2022.pdf)" industry average value published by the Concrete Reinforcing Steel Institute, we get:
 
 	$CF_{A1-A3} = 854 kgCO_2 e /metric \: tonne$
 
@@ -49,7 +49,7 @@ With the material quantity and the carbon factor, we can calculate the A1-A3 emb
 
 We then repeat this for each material identified as part of the quantity take-off.
 
-| Component      | Material             | Quantity | Units          | $CF_{A1-A3}$($kgCO_2 e/unit$) | $EC_{A1-A3}$ ($kgCO_2 e$) |
+| Component      | Material             | Quantity | Units          | $CF_{A1-A3}$$(kgCO_2 e/unit)$ | $EC_{A1-A3}$ $(kgCO_2 e)$ |
 | -------------- | -------------------- | -------- | -------------- | ----------------------------- | ------------------------- |
 | Foundation     | 4000 psi Concrete    | 896      | $yd^3$         | 251                           | 224,896                   |
 |                | Rebar                | 145      | $short \: ton$ | 774                           | 112,230                   |
