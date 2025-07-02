@@ -6,7 +6,7 @@ The following is an abbreviated executive summary with resources intended to equ
 - SEI Workshop Report (2024)
 - [SE 2050 Strategic Plan](https://docs.google.com/document/d/1kGF1Qav4W87mc7-D859R8f2UXitwh2H65yxZfx3Qke4/edit?usp=sharing)
 - SE 2050 Database [Report](https://ascelibrary.org/doi/book/10.1061/9780784485927) and [Executive Summary](https://ascelibrary.org/doi/epdf/10.1061/9780784485927.fm)
-- [Low Carbon Concrete Guide](https://lowercarbonconcrete.org/guide)**
+- [Low Carbon Concrete Guide](https://lowercarbonconcrete.org/guide)
 
 # SE 2050 Snapshot
 

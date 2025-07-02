@@ -14,6 +14,9 @@ Additional *Division 1 - Sustainable Design Requirements*  model specifications 
 AISC has put together a number of resources for designers related to sustainability into a toolkit: [Sustainability Toolkit for Designers](https://www.aisc.org/sustainability-toolbox/sustainability-designer-toolkit/). Included is a resource on "Specification Strategies for Embodied Carbon Reduction"
 # Performance Based Design Concrete Specification
 The NCSEA Sustainable Design Committee has developed guidance for a performance-based concrete specification: [Performance-Based Concrete Specification Guidance: Concrete Class Table](https://www.ncsea.com/app/uploads/2024/09/NCSEA-Sustainable-Design-Committee-Performance-Based-Concrete_V1.0.pdf) in addition to an informational list of relevant concrete properties.
+
+# Lower Carbon Concrete Guide
+A task force of structural engineers and material experts have put forth a [Lower-Carbon Concrete Guide](https://lowercarbonconcrete.org/guide) published in 2025 that provides extensive, practical ways to address the embodied carbon of concrete.
 # Navigation
 Return: [[Home]]
 Suggested Next: [[Design Strategies]]

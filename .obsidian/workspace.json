@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Misc/NCSEA - Design Criteria and Design Constraints for Sustainability and Embodied Carbon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "NCSEA - Design Criteria and Design Constraints for Sustainability and Embodied Carbon"
             }
           }
         ],
@@ -209,10 +209,15 @@
   },
   "active": "6fce94aae4e4074e",
   "lastOpenFiles": [
+    "Drafts/Concrete.md",
+    "Drafts/Things to consider adding.md",
+    "Reducing/Specifications.md",
     "Misc/SE 2050 Resources Executive Summary.md",
+    "Images/SE 2050 Snapshot.png",
+    "Images/SE 2050 Database Report.png",
+    "Home.md",
     "Misc/SE 2050 Commitment Program.md",
     "About the Bootcamp.md",
-    "Home.md",
     "Reducing/Engaging the Design Team.md",
     "Misc/NCSEA - Design Criteria and Design Constraints for Sustainability and Embodied Carbon.md",
     "Measuring/Biogenic Carbon.md",
@@ -220,7 +225,6 @@
     "Misc/Prestandard for Assessing the Embodied Carbon of Structural Systems for Buildings.md",
     "Misc/Path to Zero Carbon Series by LMN Architects.md",
     "Reducing/Design Strategies.md",
-    "Reducing/Specifications.md",
     "Measuring/Midpoint Indicators to Measure Endpoint Impacts.md",
     "[[Prestandard.md",
     "Prestandard.md",
@@ -232,10 +236,7 @@
     "Measuring/How to Perform an LCA.md",
     "Misc/Why Consider Embodied Carbon?.md",
     "Measuring/Life cycle stages and modules.md",
-    "Misc/Drafts/Things to consider adding.md",
-    "Misc/Drafts/Concrete.md",
-    "README.md",
-    "Misc/Drafts",
+    "Drafts",
     "gitignore",
     "Untitled.canvas"
   ]
